@@ -8,3 +8,8 @@ python svgTemplate.py example/examp1 inkscape
 ```
 python svgTemplate.py example/examp1 cairosvg
 ```
+
+If you can only generate svg files (without pdf), you can only don't use te pdf generator option
+```
+python svgTemplate.py example/examp1
+```
