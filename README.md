@@ -1,5 +1,5 @@
 # svgTemplateToPDF
-You can use a svg Template using svglue to generete many documents accross data files in csv documents.
+You can use a svg Template using [svglue](https://github.com/mbr/svglue) to generete many documents accross data files in csv documents.
 You have two options to generate pdf files, using inkscape bash command
 ```
 python svgTemplate.py example/examp1 inkscape
